@@ -1,0 +1,29 @@
+{
+  "Promotional email": {
+    "emailSubjectText": "Get ready to elevate your fitness wardrobe with Reebok!",
+    "emailPreviewText": "Shop now and get a $50 coupon",
+    "headingText": "Upgrade your athletic gear with Reebok!",
+    "subheadingText": "Shop now and get a $50 coupon",
+    "emailMessage": "Discover the latest styles and innovations in athletic footwear, apparel, and accessories at Reebok. Whether you're hitting the gym, going for a run, or simply want to elevate your sporty style, Reebok has something for everyone. Shop now and get a $50 coupon to use towards your next purchase. Don't miss out on this exclusive offer!",
+    "buttonText": "Shop Now",
+    "mailingAddress": "548 Market St., Suite 39231 San Francisco, CA 94104",
+    "companyName": "Reebok",
+    "companyURL": "https://www.reebok.com/"
+  },
+  "Reward email": {
+    "participantReward": "$50 coupon",
+    "emailSubjectText": "Congratulations! You've earned a $50 coupon from Reebok",
+    "emailPreviewText": "Click to redeem your reward",
+    "headingText": "Congratulations! You've earned a $50 Reebok coupon",
+    "subheadingText": "Thank you for being a loyal customer",
+    "emailMessage": "Your commitment to fitness and style has been recognized! As a token of appreciation, we're delighted to offer you a $50 coupon to use towards your next purchase at Reebok. Keep up the great work and continue to elevate your athletic journey with Reebok. Thank you for being a valuable customer!",
+    "defaultCouponCode": "COUPON50",
+    "reminderMessage": "Thank you for your loyalty. Stay active and unlock more rewards!",
+    "shareAgainButtonText - en": "SHARE AGAIN",
+    "rewardRedemptionButtonURL": "https://www.reebok.com/",
+    "companyName": "Reebok",
+    "mailingAddress": "548 Market St., Suite 39231 San Francisco, CA 94104",
+    "participantRewardAmount": "1",
+    "companyURL": "https://www.reebok.com/"
+  }
+}

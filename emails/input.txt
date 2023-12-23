@@ -1,0 +1,24 @@
+{
+  "lastAddedCompany": {
+    "Reebok": {
+      "companyDescription": "ding global brand in athletic footwear and apparel, offers a wide range of shoes for men, women, and kids. With new arrivals and classic styles, Reebok caters to various sports and activities such as running, training, basketball, and more. They also provide a diverse selection of clothing and accessories to complete your sporty look. Whether you're looking for high-performance gear or comfortable loungewear, Reebok has you covered. Shop now and elevate your fitness wardrobe with Reebok's iconic styles.",
+      "companyName": "Reebok",
+      "creative": "Dragomir",
+      "executiveSponsor": "Ana-Maria",
+      "programManager": "Alex",
+      "selectedIndustry": "Sportswear and Athletic footwear.",
+      "technical": "Cristi and Liviu",
+      "website": "https://www.reebok.com/"
+    }
+  },
+  "latestProgramData": {
+    "accountClosures": "",
+    "audience": "Every reebok customer",
+    "keyEvents": "",
+    "offlineEvents": "",
+    "reward": "50$ coupon",
+    "rewardLimit": "1",
+    "rules": "You have to be a reebok customer",
+    "selectedPlan": "Email"
+  }
+}

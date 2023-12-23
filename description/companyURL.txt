@@ -1,0 +1,6 @@
+{
+  "lastAddedCompany": {
+    "companyName": "Reebok",
+    "website": "https://www.reebok.com/"
+  }
+}
