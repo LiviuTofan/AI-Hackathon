@@ -13,5 +13,5 @@ Retrieval from Firebase: All data related to promotion requirements is retrieved
 GPT Prompting: GPT is employed again, this time with a well-structured JSON prompt, to generate promotional and reward emails based on user-input requirements.
 Firebase Storage: The generated promotional and reward emails are stored in Firebase for further use.
 
-# [Conclusion]
+# Conclusion
 Through the integration of AI technologies, this project facilitates the automated generation of company descriptions, industry field assignment, and the creation of promotional and reward emails.
